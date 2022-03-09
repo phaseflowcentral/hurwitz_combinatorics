@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[    224874,       5333]
-NotebookOptionsPosition[    181781,       4466]
-NotebookOutlinePosition[    219430,       5226]
-CellTagsIndexPosition[    219387,       5223]
+NotebookDataLength[    224049,       5292]
+NotebookOptionsPosition[    181212,       4431]
+NotebookOutlinePosition[    218861,       5191]
+CellTagsIndexPosition[    218818,       5188]
 WindowTitle->Hurw-test.nb
 WindowFrame->Normal*)
 
@@ -30,35 +30,14 @@ Cell[BoxData[
   3.8553043694480166`*^9, 3.8553043900342493`*^9}, {3.8553054775880175`*^9, 
   3.855305517970023*^9}, {3.855796644731476*^9, 3.8557966843532953`*^9}},
  CellLabel->"In[15]:=",
- CellID->213996015,ExpressionUUID->"7e6b3cec-4f0e-4309-9745-0e661e1b8cbf"],
-
-Cell[CellGroupData[{
-
-Cell[BoxData[
- RowBox[{"h", "[", 
-  RowBox[{"3", ",", 
-   RowBox[{"{", 
-    RowBox[{"2", ",", "1"}], "}"}]}], "]"}]], "Input",
- CellChangeTimes->{{3.8553914222809052`*^9, 3.855391427054385*^9}},
- CellLabel->"In[13]:=",
- CellID->41906,ExpressionUUID->"6e35796b-e83a-462f-9fa6-e86076ce7459"],
-
-Cell[BoxData[
- RowBox[{"h", "[", 
-  RowBox[{"3", ",", 
-   RowBox[{"{", 
-    RowBox[{"2", ",", "1"}], "}"}]}], "]"}]], "Output",
- CellChangeTimes->{3.855391427563712*^9, 3.855796749238722*^9},
- CellLabel->"Out[13]=",
- CellID->10601684,ExpressionUUID->"99121c54-b680-4fe2-bbf4-55111f386202"]
-}, Open  ]],
+ CellID->213996015,ExpressionUUID->"7158d198-a97b-426c-9a66-afa3cfd439cc"],
 
 Cell[CellGroupData[{
 
 Cell["\:0424\:043e\:0440\:043c\:0443\:043b\:0430 \:041a\:044d\:043b\:0438:", \
 "Section",
  CellChangeTimes->{{3.855304509163783*^9, 3.8553045155319257`*^9}},
- CellID->322964014,ExpressionUUID->"e88fb585-4d85-48ca-9b8f-38d3b40d3496"],
+ CellID->322964014,ExpressionUUID->"31d1de93-1a8a-4e3a-8401-175e418c4ee5"],
 
 Cell[CellGroupData[{
 
@@ -69,11 +48,11 @@ Cell[BoxData[
    RowBox[{"{", "3", "}"}]}], "]"}]], "VerificationTest",
  CellChangeTimes->{{3.8553043309970284`*^9, 3.855304331482281*^9}, {
   3.855304422126016*^9, 3.8553044311000214`*^9}},
- CellID->50936257,ExpressionUUID->"80f8471d-34c7-457c-a5c7-de0831459dee"],
+ CellID->50936257,ExpressionUUID->"f1c5af56-cd01-4bc0-afe8-59fd7e101413"],
 
 Cell[BoxData["1"], "ExpectedOutput",
  CellChangeTimes->{3.855304435662017*^9},
- CellID->78641636,ExpressionUUID->"83619eb4-a54e-404f-b0fb-2c44484c0af5"],
+ CellID->78641636,ExpressionUUID->"18056b60-2faf-4ee4-b980-f00a1b3ab85f"],
 
 Cell[BoxData[
  PaneBox[
@@ -85,7 +64,7 @@ Cell[BoxData[
            
            DynamicBox[FEPrivate`FrontEndResource[
             "MUnitStrings", "Success-TestSuccess"],
-            ImageSizeCache->{56.82031056471169, {1., 11.}}],
+            ImageSizeCache->{40.910625, {0., 8.}}],
            StripOnInput->False,
            LineColor->GrayLevel[1],
            FrontFaceColor->GrayLevel[1],
@@ -98,7 +77,7 @@ Cell[BoxData[
           
           DynamicBox[FEPrivate`FrontEndResource[
            "MUnitExpressions", "SuccessCheck"],
-           ImageSizeCache->{16., {4., 8.}}]}
+           ImageSizeCache->{11.52, {3., 5.640000000000001}}]}
         },
         AutoDelete->False,
         GridBoxAlignment->{"Columns" -> {{Automatic}}, "Rows" -> {{Center}}},
@@ -115,7 +94,7 @@ Cell[BoxData[
             
             DynamicBox[FEPrivate`FrontEndResource[
              "MUnitStrings", "Details-Label"],
-             ImageSizeCache->{32.7929679681547, {0., 8.}}],
+             ImageSizeCache->{23.610937500000006`, {0., 6.}}],
             StripOnInput->False,
             LineColor->GrayLevel[1],
             FrontFaceColor->GrayLevel[1],
@@ -310,7 +289,7 @@ Function[Short[Slot[1], Rational[2, 3]]]]\)",
     GridBoxItemSize->{"Columns" -> {{All}}, "Rows" -> {{All}}}],
    "Grid"],
   ImageSize->Full]], "TestSuccess",
- CellID->504193140,ExpressionUUID->"789aeb3b-0ace-4176-b5b3-a46dcbad0bf8"],
+ CellID->31286477,ExpressionUUID->"ec0253ed-09fc-495f-b980-f99c04b4cc41"],
 
 Cell[BoxData[
  PaneBox[
@@ -330,13 +309,13 @@ Cell[BoxData[
                     
                     DynamicBox[FEPrivate`FrontEndResource[
                     "MUnitExpressions", "Add"],
-                    ImageSizeCache->{12., {4., 8.}}],
+                    ImageSizeCache->{8.64, {3., 5.640000000000001}}],
                     BaselinePosition->(Center -> Scaled[0.5])], 
                     StyleBox[
                     
                     DynamicBox[FEPrivate`FrontEndResource[
                     "MUnitStrings", "AddMessages-Label"],
-                    ImageSizeCache->{77.48826095685654, {3., 9.}}], 
+                    ImageSizeCache->{55.79154667968749, {2., 7.}}], 
                     "ButtonText",
                     StripOnInput->False,
                     FontColor->Dynamic[
@@ -371,9 +350,7 @@ Cell[BoxData[
                  FEPrivate`FrontEndResource[
                  "MUnitStrings", "AddMessages-Tooltip"]]], "Tooltip"]& ], 
              MUnit`Palette`Private`hover$$ = CurrentValue["MouseOver"],
-             
-             ImageSizeCache->{
-              116., {10.933593688416295`, 15.066406311583705`}}],
+             ImageSizeCache->{84.4, {11.5121875, 14.4878125}}],
             DynamicModuleValues:>{}], 
            TagBox[GridBox[{
               {
@@ -388,13 +365,13 @@ Cell[BoxData[
                     
                     DynamicBox[FEPrivate`FrontEndResource[
                     "MUnitExpressions", "Add"],
-                    ImageSizeCache->{12., {4., 8.}}],
+                    ImageSizeCache->{8.64, {3., 5.640000000000001}}],
                     BaselinePosition->(Center -> Scaled[0.5])], 
                     StyleBox[
                     
                     DynamicBox[FEPrivate`FrontEndResource[
                     "MUnitStrings", "AddOptions-Label"],
-                    ImageSizeCache->{67.73435449544631, {2., 9.}}], 
+                    ImageSizeCache->{48.7687341796875, {2., 7.}}], 
                     "ButtonText",
                     StripOnInput->False,
                     FontColor->Dynamic[
@@ -429,9 +406,7 @@ Cell[BoxData[
                     FEPrivate`FrontEndResource[
                     "MUnitStrings", "AddOptions-Tooltip"]]], "Tooltip"]& ], 
                  MUnit`Palette`Private`hover$$ = CurrentValue["MouseOver"],
-                 
-                 ImageSizeCache->{
-                  106., {10.933593688416295`, 15.066406311583705`}}],
+                 ImageSizeCache->{77.4, {11.5121875, 14.4878125}}],
                 DynamicModuleValues:>{}], 
                ActionMenuBox[
                 ButtonBox["\<\"\"\>",
@@ -495,13 +470,15 @@ Cell[BoxData[
                 
                 DynamicBox[FEPrivate`FrontEndResource[
                  "MUnitExpressions", "Rerun"],
-                 ImageSizeCache->{15., {6., 9.}}],
+                 
+                 ImageSizeCache->{
+                  10.799999999999999`, {4., 6.799999999999999}}],
                 BaselinePosition->(Center -> Scaled[0.5])], 
                StyleBox[
                 
                 DynamicBox[FEPrivate`FrontEndResource[
                  "MUnitStrings", "Rerun-Label"],
-                 ImageSizeCache->{32.33935616968665, {0., 9.}}], "ButtonText",
+                 ImageSizeCache->{23.2843359375, {0., 6.}}], "ButtonText",
                 StripOnInput->False,
                 FontColor->Dynamic[
                   If[MUnit`Palette`Private`hover$$, 
@@ -532,14 +509,14 @@ Cell[BoxData[
             FEPrivate`FrontEndResource["MUnitStrings", "Rerun-Tooltip"]]], 
           "Tooltip"]& ], MUnit`Palette`Private`hover$$ = 
         CurrentValue["MouseOver"],
-        ImageSizeCache->{73., {10.933593688416295`, 15.066406311583705`}}],
+        ImageSizeCache->{53.400000000000006`, {11.5121875, 14.4878125}}],
        DynamicModuleValues:>{}]}
     },
     AutoDelete->False,
     GridBoxItemSize->{"Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}}],
    "Grid"],
   ImageSize->Full]], "BottomCell",
- CellID->211682399,ExpressionUUID->"b0342641-c45d-40b2-914b-e21a58aede75"]
+ CellID->248997009,ExpressionUUID->"449a9e7d-fc22-4cd2-b5ce-297d3bb16cf0"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -550,11 +527,11 @@ Cell[BoxData[
    RowBox[{"4", "-", "1"}], ",", 
    RowBox[{"{", "4", "}"}]}], "]"}]], "VerificationTest",
  CellChangeTimes->{{3.855304454096035*^9, 3.8553044599065924`*^9}},
- CellID->303224318,ExpressionUUID->"5ea6da9d-d562-4e0a-83b7-4b5a9a571ab9"],
+ CellID->303224318,ExpressionUUID->"adaaad6c-2532-4363-a136-1ded5abed92a"],
 
 Cell[BoxData["4"], "ExpectedOutput",
  CellChangeTimes->{3.855304467296015*^9},
- CellID->658707361,ExpressionUUID->"519e0283-adda-441f-aee4-c7db03fd56d1"],
+ CellID->658707361,ExpressionUUID->"b0399128-ed70-43e5-8c48-7845f90b473b"],
 
 Cell[BoxData[
  PaneBox[
@@ -566,7 +543,7 @@ Cell[BoxData[
            
            DynamicBox[FEPrivate`FrontEndResource[
             "MUnitStrings", "Success-TestSuccess"],
-            ImageSizeCache->{56.82031056471169, {1., 11.}}],
+            ImageSizeCache->{40.910625, {0., 8.}}],
            StripOnInput->False,
            LineColor->GrayLevel[1],
            FrontFaceColor->GrayLevel[1],
@@ -579,7 +556,7 @@ Cell[BoxData[
           
           DynamicBox[FEPrivate`FrontEndResource[
            "MUnitExpressions", "SuccessCheck"],
-           ImageSizeCache->{16., {4., 8.}}]}
+           ImageSizeCache->{11.52, {3., 5.640000000000001}}]}
         },
         AutoDelete->False,
         GridBoxAlignment->{"Columns" -> {{Automatic}}, "Rows" -> {{Center}}},
@@ -596,7 +573,7 @@ Cell[BoxData[
             
             DynamicBox[FEPrivate`FrontEndResource[
              "MUnitStrings", "Details-Label"],
-             ImageSizeCache->{32.7929679681547, {0., 8.}}],
+             ImageSizeCache->{23.610937500000006`, {0., 6.}}],
             StripOnInput->False,
             LineColor->GrayLevel[1],
             FrontFaceColor->GrayLevel[1],
@@ -791,7 +768,7 @@ Function[Short[Slot[1], Rational[2, 3]]]]\)",
     GridBoxItemSize->{"Columns" -> {{All}}, "Rows" -> {{All}}}],
    "Grid"],
   ImageSize->Full]], "TestSuccess",
- CellID->103421702,ExpressionUUID->"dfe1e71d-0424-4fab-8fcc-b729f7e60cbf"],
+ CellID->372037956,ExpressionUUID->"62dc5e2f-0f85-43c1-b9b6-bb54bb21a8ee"],
 
 Cell[BoxData[
  PaneBox[
@@ -811,13 +788,13 @@ Cell[BoxData[
                     
                     DynamicBox[FEPrivate`FrontEndResource[
                     "MUnitExpressions", "Add"],
-                    ImageSizeCache->{12., {4., 8.}}],
+                    ImageSizeCache->{8.64, {3., 5.640000000000001}}],
                     BaselinePosition->(Center -> Scaled[0.5])], 
                     StyleBox[
                     
                     DynamicBox[FEPrivate`FrontEndResource[
                     "MUnitStrings", "AddMessages-Label"],
-                    ImageSizeCache->{77.48826095685654, {3., 9.}}], 
+                    ImageSizeCache->{55.79154667968749, {2., 7.}}], 
                     "ButtonText",
                     StripOnInput->False,
                     FontColor->Dynamic[
@@ -852,9 +829,7 @@ Cell[BoxData[
                  FEPrivate`FrontEndResource[
                  "MUnitStrings", "AddMessages-Tooltip"]]], "Tooltip"]& ], 
              MUnit`Palette`Private`hover$$ = CurrentValue["MouseOver"],
-             
-             ImageSizeCache->{
-              116., {10.933593688416295`, 15.066406311583705`}}],
+             ImageSizeCache->{84.4, {11.5121875, 14.4878125}}],
             DynamicModuleValues:>{}], 
            TagBox[GridBox[{
               {
@@ -869,13 +844,13 @@ Cell[BoxData[
                     
                     DynamicBox[FEPrivate`FrontEndResource[
                     "MUnitExpressions", "Add"],
-                    ImageSizeCache->{12., {4., 8.}}],
+                    ImageSizeCache->{8.64, {3., 5.640000000000001}}],
                     BaselinePosition->(Center -> Scaled[0.5])], 
                     StyleBox[
                     
                     DynamicBox[FEPrivate`FrontEndResource[
                     "MUnitStrings", "AddOptions-Label"],
-                    ImageSizeCache->{67.73435449544631, {2., 9.}}], 
+                    ImageSizeCache->{48.7687341796875, {2., 7.}}], 
                     "ButtonText",
                     StripOnInput->False,
                     FontColor->Dynamic[
@@ -910,9 +885,7 @@ Cell[BoxData[
                     FEPrivate`FrontEndResource[
                     "MUnitStrings", "AddOptions-Tooltip"]]], "Tooltip"]& ], 
                  MUnit`Palette`Private`hover$$ = CurrentValue["MouseOver"],
-                 
-                 ImageSizeCache->{
-                  106., {10.933593688416295`, 15.066406311583705`}}],
+                 ImageSizeCache->{77.4, {11.5121875, 14.4878125}}],
                 DynamicModuleValues:>{}], 
                ActionMenuBox[
                 ButtonBox["\<\"\"\>",
@@ -976,13 +949,15 @@ Cell[BoxData[
                 
                 DynamicBox[FEPrivate`FrontEndResource[
                  "MUnitExpressions", "Rerun"],
-                 ImageSizeCache->{15., {6., 9.}}],
+                 
+                 ImageSizeCache->{
+                  10.799999999999999`, {4., 6.799999999999999}}],
                 BaselinePosition->(Center -> Scaled[0.5])], 
                StyleBox[
                 
                 DynamicBox[FEPrivate`FrontEndResource[
                  "MUnitStrings", "Rerun-Label"],
-                 ImageSizeCache->{32.33935616968665, {0., 9.}}], "ButtonText",
+                 ImageSizeCache->{23.2843359375, {0., 6.}}], "ButtonText",
                 StripOnInput->False,
                 FontColor->Dynamic[
                   If[MUnit`Palette`Private`hover$$, 
@@ -1013,14 +988,14 @@ Cell[BoxData[
             FEPrivate`FrontEndResource["MUnitStrings", "Rerun-Tooltip"]]], 
           "Tooltip"]& ], MUnit`Palette`Private`hover$$ = 
         CurrentValue["MouseOver"],
-        ImageSizeCache->{73., {10.933593688416295`, 15.066406311583705`}}],
+        ImageSizeCache->{53.400000000000006`, {11.5121875, 14.4878125}}],
        DynamicModuleValues:>{}]}
     },
     AutoDelete->False,
     GridBoxItemSize->{"Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}}],
    "Grid"],
   ImageSize->Full]], "BottomCell",
- CellID->106152304,ExpressionUUID->"fd2f4e7c-50c4-4181-9ba7-9775427a0b9d"]
+ CellID->99745807,ExpressionUUID->"644554e0-b723-46bd-992e-5c7f05e78c1b"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -1032,11 +1007,11 @@ Cell[BoxData[
    RowBox[{"{", "5", "}"}]}], "]"}]], "VerificationTest",
  CellChangeTimes->{{3.855304474504017*^9, 3.8553044822898397`*^9}, {
   3.855304543890108*^9, 3.8553045544278464`*^9}},
- CellID->636017086,ExpressionUUID->"520f758a-390a-46e3-accf-3b17362f43c0"],
+ CellID->636017086,ExpressionUUID->"bf310e7d-cd8a-4fa4-b243-14620855d07f"],
 
 Cell[BoxData["25"], "ExpectedOutput",
  CellChangeTimes->{{3.8553045588035226`*^9, 3.8553045597790165`*^9}},
- CellID->790665,ExpressionUUID->"6b9a4cb6-4801-475f-b264-927347e169f0"],
+ CellID->790665,ExpressionUUID->"f7996feb-b679-4599-a03c-7413441fa36e"],
 
 Cell[BoxData[
  PaneBox[
@@ -1048,7 +1023,7 @@ Cell[BoxData[
            
            DynamicBox[FEPrivate`FrontEndResource[
             "MUnitStrings", "Success-TestSuccess"],
-            ImageSizeCache->{56.82031056471169, {1., 11.}}],
+            ImageSizeCache->{40.910625, {0., 8.}}],
            StripOnInput->False,
            LineColor->GrayLevel[1],
            FrontFaceColor->GrayLevel[1],
@@ -1061,7 +1036,7 @@ Cell[BoxData[
           
           DynamicBox[FEPrivate`FrontEndResource[
            "MUnitExpressions", "SuccessCheck"],
-           ImageSizeCache->{16., {4., 8.}}]}
+           ImageSizeCache->{11.52, {3., 5.640000000000001}}]}
         },
         AutoDelete->False,
         GridBoxAlignment->{"Columns" -> {{Automatic}}, "Rows" -> {{Center}}},
@@ -1078,7 +1053,7 @@ Cell[BoxData[
             
             DynamicBox[FEPrivate`FrontEndResource[
              "MUnitStrings", "Details-Label"],
-             ImageSizeCache->{32.7929679681547, {0., 8.}}],
+             ImageSizeCache->{23.610937500000006`, {0., 6.}}],
             StripOnInput->False,
             LineColor->GrayLevel[1],
             FrontFaceColor->GrayLevel[1],
@@ -1273,7 +1248,7 @@ Function[Short[Slot[1], Rational[2, 3]]]]\)",
     GridBoxItemSize->{"Columns" -> {{All}}, "Rows" -> {{All}}}],
    "Grid"],
   ImageSize->Full]], "TestSuccess",
- CellID->314567126,ExpressionUUID->"05c049b7-4d7b-47bc-acf8-687593530282"],
+ CellID->714180672,ExpressionUUID->"758aab14-d901-4b6f-8c4a-7bc3584c8902"],
 
 Cell[BoxData[
  PaneBox[
@@ -1293,13 +1268,13 @@ Cell[BoxData[
                     
                     DynamicBox[FEPrivate`FrontEndResource[
                     "MUnitExpressions", "Add"],
-                    ImageSizeCache->{12., {4., 8.}}],
+                    ImageSizeCache->{8.64, {3., 5.640000000000001}}],
                     BaselinePosition->(Center -> Scaled[0.5])], 
                     StyleBox[
                     
                     DynamicBox[FEPrivate`FrontEndResource[
                     "MUnitStrings", "AddMessages-Label"],
-                    ImageSizeCache->{77.48826095685654, {3., 9.}}], 
+                    ImageSizeCache->{55.79154667968749, {2., 7.}}], 
                     "ButtonText",
                     StripOnInput->False,
                     FontColor->Dynamic[
@@ -1334,9 +1309,7 @@ Cell[BoxData[
                  FEPrivate`FrontEndResource[
                  "MUnitStrings", "AddMessages-Tooltip"]]], "Tooltip"]& ], 
              MUnit`Palette`Private`hover$$ = CurrentValue["MouseOver"],
-             
-             ImageSizeCache->{
-              116., {10.933593688416295`, 15.066406311583705`}}],
+             ImageSizeCache->{84.4, {11.5121875, 14.4878125}}],
             DynamicModuleValues:>{}], 
            TagBox[GridBox[{
               {
@@ -1351,13 +1324,13 @@ Cell[BoxData[
                     
                     DynamicBox[FEPrivate`FrontEndResource[
                     "MUnitExpressions", "Add"],
-                    ImageSizeCache->{12., {4., 8.}}],
+                    ImageSizeCache->{8.64, {3., 5.640000000000001}}],
                     BaselinePosition->(Center -> Scaled[0.5])], 
                     StyleBox[
                     
                     DynamicBox[FEPrivate`FrontEndResource[
                     "MUnitStrings", "AddOptions-Label"],
-                    ImageSizeCache->{67.73435449544631, {2., 9.}}], 
+                    ImageSizeCache->{48.7687341796875, {2., 7.}}], 
                     "ButtonText",
                     StripOnInput->False,
                     FontColor->Dynamic[
@@ -1392,9 +1365,7 @@ Cell[BoxData[
                     FEPrivate`FrontEndResource[
                     "MUnitStrings", "AddOptions-Tooltip"]]], "Tooltip"]& ], 
                  MUnit`Palette`Private`hover$$ = CurrentValue["MouseOver"],
-                 
-                 ImageSizeCache->{
-                  106., {10.933593688416295`, 15.066406311583705`}}],
+                 ImageSizeCache->{77.4, {11.5121875, 14.4878125}}],
                 DynamicModuleValues:>{}], 
                ActionMenuBox[
                 ButtonBox["\<\"\"\>",
@@ -1458,13 +1429,15 @@ Cell[BoxData[
                 
                 DynamicBox[FEPrivate`FrontEndResource[
                  "MUnitExpressions", "Rerun"],
-                 ImageSizeCache->{15., {6., 9.}}],
+                 
+                 ImageSizeCache->{
+                  10.799999999999999`, {4., 6.799999999999999}}],
                 BaselinePosition->(Center -> Scaled[0.5])], 
                StyleBox[
                 
                 DynamicBox[FEPrivate`FrontEndResource[
                  "MUnitStrings", "Rerun-Label"],
-                 ImageSizeCache->{32.33935616968665, {0., 9.}}], "ButtonText",
+                 ImageSizeCache->{23.2843359375, {0., 6.}}], "ButtonText",
                 StripOnInput->False,
                 FontColor->Dynamic[
                   If[MUnit`Palette`Private`hover$$, 
@@ -1495,14 +1468,14 @@ Cell[BoxData[
             FEPrivate`FrontEndResource["MUnitStrings", "Rerun-Tooltip"]]], 
           "Tooltip"]& ], MUnit`Palette`Private`hover$$ = 
         CurrentValue["MouseOver"],
-        ImageSizeCache->{73., {10.933593688416295`, 15.066406311583705`}}],
+        ImageSizeCache->{53.400000000000006`, {11.5121875, 14.4878125}}],
        DynamicModuleValues:>{}]}
     },
     AutoDelete->False,
     GridBoxItemSize->{"Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}}],
    "Grid"],
   ImageSize->Full]], "BottomCell",
- CellID->119427942,ExpressionUUID->"9fc46c65-92de-4b00-afbf-57b181e2692c"]
+ CellID->48490621,ExpressionUUID->"c1264e80-e50d-4527-b852-cf22af0f6ab1"]
 }, Open  ]]
 }, Open  ]],
 
@@ -1513,7 +1486,7 @@ Cell["\:0420\:0430\:0437\:043d\:044b\:0435 \:043f\:0440\:0438\:043c\:0435\
 "Section",
  CellChangeTimes->{{3.855304574679633*^9, 3.855304578726016*^9}, {
   3.8553057614035187`*^9, 3.8553057675032544`*^9}},
- CellID->260296769,ExpressionUUID->"959b8f74-fc2b-4268-9cb5-740ae590eea5"],
+ CellID->260296769,ExpressionUUID->"0c15be0d-f356-4ece-955d-bd96467a29f2"],
 
 Cell[CellGroupData[{
 
@@ -1522,11 +1495,11 @@ Cell[BoxData[
   RowBox[{"2", ",", 
    RowBox[{"{", "3", "}"}]}], "]"}]], "VerificationTest",
  CellChangeTimes->{{3.8553045844887023`*^9, 3.855304592289959*^9}},
- CellID->527546667,ExpressionUUID->"3d577294-7bef-46a6-8a37-71068524d089"],
+ CellID->527546667,ExpressionUUID->"38a21ab4-4c33-4880-97ba-002797df76c5"],
 
 Cell[BoxData["1"], "ExpectedOutput",
  CellChangeTimes->{3.8553045948859873`*^9},
- CellID->121214379,ExpressionUUID->"df3c03cc-7dfa-4951-9f2e-c8c53facb9d0"],
+ CellID->121214379,ExpressionUUID->"a5497eb6-9766-4edd-a3aa-66b3a0a1f808"],
 
 Cell[BoxData[
  PaneBox[
@@ -1538,7 +1511,7 @@ Cell[BoxData[
            
            DynamicBox[FEPrivate`FrontEndResource[
             "MUnitStrings", "Success-TestSuccess"],
-            ImageSizeCache->{56.82031056471169, {1., 11.}}],
+            ImageSizeCache->{40.910625, {0., 8.}}],
            StripOnInput->False,
            LineColor->GrayLevel[1],
            FrontFaceColor->GrayLevel[1],
@@ -1551,7 +1524,7 @@ Cell[BoxData[
           
           DynamicBox[FEPrivate`FrontEndResource[
            "MUnitExpressions", "SuccessCheck"],
-           ImageSizeCache->{16., {4., 8.}}]}
+           ImageSizeCache->{11.52, {3., 5.640000000000001}}]}
         },
         AutoDelete->False,
         GridBoxAlignment->{"Columns" -> {{Automatic}}, "Rows" -> {{Center}}},
@@ -1568,7 +1541,7 @@ Cell[BoxData[
             
             DynamicBox[FEPrivate`FrontEndResource[
              "MUnitStrings", "Details-Label"],
-             ImageSizeCache->{32.7929679681547, {0., 8.}}],
+             ImageSizeCache->{23.610937500000006`, {0., 6.}}],
             StripOnInput->False,
             LineColor->GrayLevel[1],
             FrontFaceColor->GrayLevel[1],
@@ -1763,7 +1736,7 @@ Function[Short[Slot[1], Rational[2, 3]]]]\)",
     GridBoxItemSize->{"Columns" -> {{All}}, "Rows" -> {{All}}}],
    "Grid"],
   ImageSize->Full]], "TestSuccess",
- CellID->11092684,ExpressionUUID->"c3d59d00-2f39-45e6-ad32-52b3b02dfffb"],
+ CellID->524041476,ExpressionUUID->"14bb5e0e-faf5-43de-9941-2f278dafab83"],
 
 Cell[BoxData[
  PaneBox[
@@ -1783,13 +1756,13 @@ Cell[BoxData[
                     
                     DynamicBox[FEPrivate`FrontEndResource[
                     "MUnitExpressions", "Add"],
-                    ImageSizeCache->{12., {4., 8.}}],
+                    ImageSizeCache->{8.64, {3., 5.640000000000001}}],
                     BaselinePosition->(Center -> Scaled[0.5])], 
                     StyleBox[
                     
                     DynamicBox[FEPrivate`FrontEndResource[
                     "MUnitStrings", "AddMessages-Label"],
-                    ImageSizeCache->{77.48826095685654, {3., 9.}}], 
+                    ImageSizeCache->{55.79154667968749, {2., 7.}}], 
                     "ButtonText",
                     StripOnInput->False,
                     FontColor->Dynamic[
@@ -1824,9 +1797,7 @@ Cell[BoxData[
                  FEPrivate`FrontEndResource[
                  "MUnitStrings", "AddMessages-Tooltip"]]], "Tooltip"]& ], 
              MUnit`Palette`Private`hover$$ = CurrentValue["MouseOver"],
-             
-             ImageSizeCache->{
-              116., {10.933593688416295`, 15.066406311583705`}}],
+             ImageSizeCache->{84.4, {11.5121875, 14.4878125}}],
             DynamicModuleValues:>{}], 
            TagBox[GridBox[{
               {
@@ -1841,13 +1812,13 @@ Cell[BoxData[
                     
                     DynamicBox[FEPrivate`FrontEndResource[
                     "MUnitExpressions", "Add"],
-                    ImageSizeCache->{12., {4., 8.}}],
+                    ImageSizeCache->{8.64, {3., 5.640000000000001}}],
                     BaselinePosition->(Center -> Scaled[0.5])], 
                     StyleBox[
                     
                     DynamicBox[FEPrivate`FrontEndResource[
                     "MUnitStrings", "AddOptions-Label"],
-                    ImageSizeCache->{67.73435449544631, {2., 9.}}], 
+                    ImageSizeCache->{48.7687341796875, {2., 7.}}], 
                     "ButtonText",
                     StripOnInput->False,
                     FontColor->Dynamic[
@@ -1882,9 +1853,7 @@ Cell[BoxData[
                     FEPrivate`FrontEndResource[
                     "MUnitStrings", "AddOptions-Tooltip"]]], "Tooltip"]& ], 
                  MUnit`Palette`Private`hover$$ = CurrentValue["MouseOver"],
-                 
-                 ImageSizeCache->{
-                  106., {10.933593688416295`, 15.066406311583705`}}],
+                 ImageSizeCache->{77.4, {11.5121875, 14.4878125}}],
                 DynamicModuleValues:>{}], 
                ActionMenuBox[
                 ButtonBox["\<\"\"\>",
@@ -1948,13 +1917,15 @@ Cell[BoxData[
                 
                 DynamicBox[FEPrivate`FrontEndResource[
                  "MUnitExpressions", "Rerun"],
-                 ImageSizeCache->{15., {6., 9.}}],
+                 
+                 ImageSizeCache->{
+                  10.799999999999999`, {4., 6.799999999999999}}],
                 BaselinePosition->(Center -> Scaled[0.5])], 
                StyleBox[
                 
                 DynamicBox[FEPrivate`FrontEndResource[
                  "MUnitStrings", "Rerun-Label"],
-                 ImageSizeCache->{32.33935616968665, {0., 9.}}], "ButtonText",
+                 ImageSizeCache->{23.2843359375, {0., 6.}}], "ButtonText",
                 StripOnInput->False,
                 FontColor->Dynamic[
                   If[MUnit`Palette`Private`hover$$, 
@@ -1985,14 +1956,14 @@ Cell[BoxData[
             FEPrivate`FrontEndResource["MUnitStrings", "Rerun-Tooltip"]]], 
           "Tooltip"]& ], MUnit`Palette`Private`hover$$ = 
         CurrentValue["MouseOver"],
-        ImageSizeCache->{73., {10.933593688416295`, 15.066406311583705`}}],
+        ImageSizeCache->{53.400000000000006`, {11.5121875, 14.4878125}}],
        DynamicModuleValues:>{}]}
     },
     AutoDelete->False,
     GridBoxItemSize->{"Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}}],
    "Grid"],
   ImageSize->Full]], "BottomCell",
- CellID->218612776,ExpressionUUID->"823d3b48-4697-4a17-ab8e-dc89bcff23f8"]
+ CellID->38775846,ExpressionUUID->"f568e6dd-a2ed-4f6e-9489-a1cf38bf257e"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -2003,13 +1974,13 @@ Cell[BoxData[
    RowBox[{"{", 
     RowBox[{"1", ",", "2"}], "}"}]}], "]"}]], "VerificationTest",
  CellChangeTimes->{{3.855304599155946*^9, 3.855304608039925*^9}},
- CellID->718987604,ExpressionUUID->"82c01883-4942-4aac-9f8c-2d2d14cd6f8c"],
+ CellID->718987604,ExpressionUUID->"e3a49461-63dd-4f48-be65-015e1de8dd10"],
 
 Cell[BoxData[
  RowBox[{"9", "/", "2"}]], "ExpectedOutput",
  CellChangeTimes->{
   3.855304614537923*^9, {3.8553047028869686`*^9, 3.8553047035897217`*^9}},
- CellID->136268980,ExpressionUUID->"79f75810-eb12-4eea-af28-504a4b0ce942"],
+ CellID->136268980,ExpressionUUID->"deb83ac2-71b3-4339-9963-5a60881bd654"],
 
 Cell[BoxData[
  PaneBox[
@@ -2021,7 +1992,7 @@ Cell[BoxData[
            
            DynamicBox[FEPrivate`FrontEndResource[
             "MUnitStrings", "Success-TestSuccess"],
-            ImageSizeCache->{56.82031056471169, {1., 11.}}],
+            ImageSizeCache->{40.910625, {0., 8.}}],
            StripOnInput->False,
            LineColor->GrayLevel[1],
            FrontFaceColor->GrayLevel[1],
@@ -2034,7 +2005,7 @@ Cell[BoxData[
           
           DynamicBox[FEPrivate`FrontEndResource[
            "MUnitExpressions", "SuccessCheck"],
-           ImageSizeCache->{16., {4., 8.}}]}
+           ImageSizeCache->{11.52, {3., 5.640000000000001}}]}
         },
         AutoDelete->False,
         GridBoxAlignment->{"Columns" -> {{Automatic}}, "Rows" -> {{Center}}},
@@ -2051,7 +2022,7 @@ Cell[BoxData[
             
             DynamicBox[FEPrivate`FrontEndResource[
              "MUnitStrings", "Details-Label"],
-             ImageSizeCache->{32.7929679681547, {0., 8.}}],
+             ImageSizeCache->{23.610937500000006`, {0., 6.}}],
             StripOnInput->False,
             LineColor->GrayLevel[1],
             FrontFaceColor->GrayLevel[1],
@@ -2248,7 +2219,7 @@ Function[Short[Slot[1], Rational[2, 3]]]]\)",
     GridBoxItemSize->{"Columns" -> {{All}}, "Rows" -> {{All}}}],
    "Grid"],
   ImageSize->Full]], "TestSuccess",
- CellID->650772878,ExpressionUUID->"28d44a19-f828-490b-9510-1193e7154ef5"],
+ CellID->463832280,ExpressionUUID->"70c22c34-d624-4bf1-b50b-ae26d2151007"],
 
 Cell[BoxData[
  PaneBox[
@@ -2268,13 +2239,13 @@ Cell[BoxData[
                     
                     DynamicBox[FEPrivate`FrontEndResource[
                     "MUnitExpressions", "Add"],
-                    ImageSizeCache->{12., {4., 8.}}],
+                    ImageSizeCache->{8.64, {3., 5.640000000000001}}],
                     BaselinePosition->(Center -> Scaled[0.5])], 
                     StyleBox[
                     
                     DynamicBox[FEPrivate`FrontEndResource[
                     "MUnitStrings", "AddMessages-Label"],
-                    ImageSizeCache->{77.48826095685654, {3., 9.}}], 
+                    ImageSizeCache->{55.79154667968749, {2., 7.}}], 
                     "ButtonText",
                     StripOnInput->False,
                     FontColor->Dynamic[
@@ -2309,9 +2280,7 @@ Cell[BoxData[
                  FEPrivate`FrontEndResource[
                  "MUnitStrings", "AddMessages-Tooltip"]]], "Tooltip"]& ], 
              MUnit`Palette`Private`hover$$ = CurrentValue["MouseOver"],
-             
-             ImageSizeCache->{
-              116., {10.933593688416295`, 15.066406311583705`}}],
+             ImageSizeCache->{84.4, {11.5121875, 14.4878125}}],
             DynamicModuleValues:>{}], 
            TagBox[GridBox[{
               {
@@ -2326,13 +2295,13 @@ Cell[BoxData[
                     
                     DynamicBox[FEPrivate`FrontEndResource[
                     "MUnitExpressions", "Add"],
-                    ImageSizeCache->{12., {4., 8.}}],
+                    ImageSizeCache->{8.64, {3., 5.640000000000001}}],
                     BaselinePosition->(Center -> Scaled[0.5])], 
                     StyleBox[
                     
                     DynamicBox[FEPrivate`FrontEndResource[
                     "MUnitStrings", "AddOptions-Label"],
-                    ImageSizeCache->{67.73435449544631, {2., 9.}}], 
+                    ImageSizeCache->{48.7687341796875, {2., 7.}}], 
                     "ButtonText",
                     StripOnInput->False,
                     FontColor->Dynamic[
@@ -2367,9 +2336,7 @@ Cell[BoxData[
                     FEPrivate`FrontEndResource[
                     "MUnitStrings", "AddOptions-Tooltip"]]], "Tooltip"]& ], 
                  MUnit`Palette`Private`hover$$ = CurrentValue["MouseOver"],
-                 
-                 ImageSizeCache->{
-                  106., {10.933593688416295`, 15.066406311583705`}}],
+                 ImageSizeCache->{77.4, {11.5121875, 14.4878125}}],
                 DynamicModuleValues:>{}], 
                ActionMenuBox[
                 ButtonBox["\<\"\"\>",
@@ -2433,13 +2400,15 @@ Cell[BoxData[
                 
                 DynamicBox[FEPrivate`FrontEndResource[
                  "MUnitExpressions", "Rerun"],
-                 ImageSizeCache->{15., {6., 9.}}],
+                 
+                 ImageSizeCache->{
+                  10.799999999999999`, {4., 6.799999999999999}}],
                 BaselinePosition->(Center -> Scaled[0.5])], 
                StyleBox[
                 
                 DynamicBox[FEPrivate`FrontEndResource[
                  "MUnitStrings", "Rerun-Label"],
-                 ImageSizeCache->{32.33935616968665, {0., 9.}}], "ButtonText",
+                 ImageSizeCache->{23.2843359375, {0., 6.}}], "ButtonText",
                 StripOnInput->False,
                 FontColor->Dynamic[
                   If[MUnit`Palette`Private`hover$$, 
@@ -2470,14 +2439,14 @@ Cell[BoxData[
             FEPrivate`FrontEndResource["MUnitStrings", "Rerun-Tooltip"]]], 
           "Tooltip"]& ], MUnit`Palette`Private`hover$$ = 
         CurrentValue["MouseOver"],
-        ImageSizeCache->{73., {10.933593688416295`, 15.066406311583705`}}],
+        ImageSizeCache->{53.400000000000006`, {11.5121875, 14.4878125}}],
        DynamicModuleValues:>{}]}
     },
     AutoDelete->False,
     GridBoxItemSize->{"Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}}],
    "Grid"],
   ImageSize->Full]], "BottomCell",
- CellID->596393490,ExpressionUUID->"cc90b7ba-3c6a-4391-9eba-b23d89d35f9e"]
+ CellID->460552147,ExpressionUUID->"1073cd1e-4668-4239-b882-6b5317332085"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -2488,12 +2457,12 @@ Cell[BoxData[
    RowBox[{"{", "2", "}"}]}], "]"}]], "VerificationTest",
  CellChangeTimes->{{3.8553053843080196`*^9, 3.8553053885600185`*^9}},
  CellLabel->"In[99]:=",
- CellID->383998197,ExpressionUUID->"02446c24-2574-462b-b32f-84e63d6cae22"],
+ CellID->383998197,ExpressionUUID->"66b90097-900a-4fee-9141-2aa084c8aec1"],
 
 Cell[BoxData[
  RowBox[{"1", "/", "2"}]], "ExpectedOutput",
  CellChangeTimes->{{3.8553053916302834`*^9, 3.8553053962500205`*^9}},
- CellID->163217842,ExpressionUUID->"4e9a1d01-8cb3-4526-96f6-2826bd45fb42"],
+ CellID->163217842,ExpressionUUID->"fa8ca39a-e1d4-41b0-87e9-a304b6035752"],
 
 Cell[BoxData[
  PaneBox[
@@ -2505,7 +2474,7 @@ Cell[BoxData[
            
            DynamicBox[FEPrivate`FrontEndResource[
             "MUnitStrings", "Success-TestSuccess"],
-            ImageSizeCache->{56.82031056471169, {1., 11.}}],
+            ImageSizeCache->{40.910625, {0., 8.}}],
            StripOnInput->False,
            LineColor->GrayLevel[1],
            FrontFaceColor->GrayLevel[1],
@@ -2518,7 +2487,7 @@ Cell[BoxData[
           
           DynamicBox[FEPrivate`FrontEndResource[
            "MUnitExpressions", "SuccessCheck"],
-           ImageSizeCache->{16., {4., 8.}}]}
+           ImageSizeCache->{11.52, {3., 5.640000000000001}}]}
         },
         AutoDelete->False,
         GridBoxAlignment->{"Columns" -> {{Automatic}}, "Rows" -> {{Center}}},
@@ -2535,7 +2504,7 @@ Cell[BoxData[
             
             DynamicBox[FEPrivate`FrontEndResource[
              "MUnitStrings", "Details-Label"],
-             ImageSizeCache->{32.7929679681547, {0., 8.}}],
+             ImageSizeCache->{23.610937500000006`, {0., 6.}}],
             StripOnInput->False,
             LineColor->GrayLevel[1],
             FrontFaceColor->GrayLevel[1],
@@ -2732,7 +2701,7 @@ Function[Short[Slot[1], Rational[2, 3]]]]\)",
     GridBoxItemSize->{"Columns" -> {{All}}, "Rows" -> {{All}}}],
    "Grid"],
   ImageSize->Full]], "TestSuccess",
- CellID->694615742,ExpressionUUID->"d8985468-4cab-4cea-9a16-59c8ca257d55"],
+ CellID->238885864,ExpressionUUID->"ceae560d-985a-4c70-b302-c44ee3b3aac1"],
 
 Cell[BoxData[
  PaneBox[
@@ -2752,13 +2721,13 @@ Cell[BoxData[
                     
                     DynamicBox[FEPrivate`FrontEndResource[
                     "MUnitExpressions", "Add"],
-                    ImageSizeCache->{12., {4., 8.}}],
+                    ImageSizeCache->{8.64, {3., 5.640000000000001}}],
                     BaselinePosition->(Center -> Scaled[0.5])], 
                     StyleBox[
                     
                     DynamicBox[FEPrivate`FrontEndResource[
                     "MUnitStrings", "AddMessages-Label"],
-                    ImageSizeCache->{77.48826095685654, {3., 9.}}], 
+                    ImageSizeCache->{55.79154667968749, {2., 7.}}], 
                     "ButtonText",
                     StripOnInput->False,
                     FontColor->Dynamic[
@@ -2793,9 +2762,7 @@ Cell[BoxData[
                  FEPrivate`FrontEndResource[
                  "MUnitStrings", "AddMessages-Tooltip"]]], "Tooltip"]& ], 
              MUnit`Palette`Private`hover$$ = CurrentValue["MouseOver"],
-             
-             ImageSizeCache->{
-              116., {10.933593688416295`, 15.066406311583705`}}],
+             ImageSizeCache->{84.4, {11.5121875, 14.4878125}}],
             DynamicModuleValues:>{}], 
            TagBox[GridBox[{
               {
@@ -2810,13 +2777,13 @@ Cell[BoxData[
                     
                     DynamicBox[FEPrivate`FrontEndResource[
                     "MUnitExpressions", "Add"],
-                    ImageSizeCache->{12., {4., 8.}}],
+                    ImageSizeCache->{8.64, {3., 5.640000000000001}}],
                     BaselinePosition->(Center -> Scaled[0.5])], 
                     StyleBox[
                     
                     DynamicBox[FEPrivate`FrontEndResource[
                     "MUnitStrings", "AddOptions-Label"],
-                    ImageSizeCache->{67.73435449544631, {2., 9.}}], 
+                    ImageSizeCache->{48.7687341796875, {2., 7.}}], 
                     "ButtonText",
                     StripOnInput->False,
                     FontColor->Dynamic[
@@ -2851,9 +2818,7 @@ Cell[BoxData[
                     FEPrivate`FrontEndResource[
                     "MUnitStrings", "AddOptions-Tooltip"]]], "Tooltip"]& ], 
                  MUnit`Palette`Private`hover$$ = CurrentValue["MouseOver"],
-                 
-                 ImageSizeCache->{
-                  106., {10.933593688416295`, 15.066406311583705`}}],
+                 ImageSizeCache->{77.4, {11.5121875, 14.4878125}}],
                 DynamicModuleValues:>{}], 
                ActionMenuBox[
                 ButtonBox["\<\"\"\>",
@@ -2917,13 +2882,15 @@ Cell[BoxData[
                 
                 DynamicBox[FEPrivate`FrontEndResource[
                  "MUnitExpressions", "Rerun"],
-                 ImageSizeCache->{15., {6., 9.}}],
+                 
+                 ImageSizeCache->{
+                  10.799999999999999`, {4., 6.799999999999999}}],
                 BaselinePosition->(Center -> Scaled[0.5])], 
                StyleBox[
                 
                 DynamicBox[FEPrivate`FrontEndResource[
                  "MUnitStrings", "Rerun-Label"],
-                 ImageSizeCache->{32.33935616968665, {0., 9.}}], "ButtonText",
+                 ImageSizeCache->{23.2843359375, {0., 6.}}], "ButtonText",
                 StripOnInput->False,
                 FontColor->Dynamic[
                   If[MUnit`Palette`Private`hover$$, 
@@ -2954,14 +2921,14 @@ Cell[BoxData[
             FEPrivate`FrontEndResource["MUnitStrings", "Rerun-Tooltip"]]], 
           "Tooltip"]& ], MUnit`Palette`Private`hover$$ = 
         CurrentValue["MouseOver"],
-        ImageSizeCache->{73., {10.933593688416295`, 15.066406311583705`}}],
+        ImageSizeCache->{53.400000000000006`, {11.5121875, 14.4878125}}],
        DynamicModuleValues:>{}]}
     },
     AutoDelete->False,
     GridBoxItemSize->{"Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}}],
    "Grid"],
   ImageSize->Full]], "BottomCell",
- CellID->677530983,ExpressionUUID->"758463a8-1080-49d8-b88b-54cafe4a8373"]
+ CellID->78514070,ExpressionUUID->"7f101741-dc04-481a-a167-fe5aa9f29477"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -2973,13 +2940,13 @@ Cell[BoxData[
     RowBox[{"1", ",", "1", ",", "3"}], "}"}]}], "]"}]], "VerificationTest",
  CellChangeTimes->{{3.855305429842016*^9, 3.855305439530017*^9}},
  CellLabel->"In[100]:=",
- CellID->257787662,ExpressionUUID->"c54ec668-3158-4f09-ac4a-b342b6908bee"],
+ CellID->257787662,ExpressionUUID->"7e82923b-e518-435a-9c51-0bddc6283f3e"],
 
 Cell[BoxData[
  RowBox[{"34", "+", 
   RowBox[{"1", "/", "2"}]}]], "ExpectedOutput",
  CellChangeTimes->{{3.855305447884018*^9, 3.855305449967703*^9}},
- CellID->125685377,ExpressionUUID->"3dc066ed-87d3-4465-8c6f-4d2970c3f165"],
+ CellID->125685377,ExpressionUUID->"01a4050e-26a2-4ab1-922d-e64dadedc2ec"],
 
 Cell[BoxData[
  PaneBox[
@@ -2991,7 +2958,7 @@ Cell[BoxData[
            
            DynamicBox[FEPrivate`FrontEndResource[
             "MUnitStrings", "Success-TestSuccess"],
-            ImageSizeCache->{56.82031056471169, {1., 11.}}],
+            ImageSizeCache->{40.910625, {0., 8.}}],
            StripOnInput->False,
            LineColor->GrayLevel[1],
            FrontFaceColor->GrayLevel[1],
@@ -3004,7 +2971,7 @@ Cell[BoxData[
           
           DynamicBox[FEPrivate`FrontEndResource[
            "MUnitExpressions", "SuccessCheck"],
-           ImageSizeCache->{16., {4., 8.}}]}
+           ImageSizeCache->{11.52, {3., 5.640000000000001}}]}
         },
         AutoDelete->False,
         GridBoxAlignment->{"Columns" -> {{Automatic}}, "Rows" -> {{Center}}},
@@ -3021,7 +2988,7 @@ Cell[BoxData[
             
             DynamicBox[FEPrivate`FrontEndResource[
              "MUnitStrings", "Details-Label"],
-             ImageSizeCache->{32.7929679681547, {0., 8.}}],
+             ImageSizeCache->{23.610937500000006`, {0., 6.}}],
             StripOnInput->False,
             LineColor->GrayLevel[1],
             FrontFaceColor->GrayLevel[1],
@@ -3180,10 +3147,10 @@ Rational[2, 3]]]]\)",
             GraphicsColor->RGBColor[0.458824, 0.458824, 0.458824],
             FontColor->RGBColor[0.458824, 0.458824, 0.458824]], 
            
-           StyleBox["\<\"\\!\\(\\*TagBox[TemplateBox[List[\\\"0.`\\\", \\\"\\\
-\\\\\"s\\\\\\\"\\\", \\\"s\\\", \\\"\\\\\\\"Seconds\\\\\\\"\\\"], \
-\\\"Quantity\\\", Rule[SyntaxForm, Mod]], Function[Short[Slot[1], Rational[2, \
-3]]]]\\)\"\>",
+           StyleBox["\<\"\\!\\(\\*TagBox[TemplateBox[List[\\\"0.\
+016000000000000014`\\\", \\\"\\\\\\\"s\\\\\\\"\\\", \\\"s\\\", \
+\\\"\\\\\\\"Seconds\\\\\\\"\\\"], \\\"Quantity\\\", Rule[SyntaxForm, Mod]], \
+Function[Short[Slot[1], Rational[2, 3]]]]\\)\"\>",
             StripOnInput->False,
             LineColor->RGBColor[0.14902, 0.14902, 0.14902],
             FrontFaceColor->RGBColor[0.14902, 0.14902, 0.14902],
@@ -3205,8 +3172,8 @@ Rational[2, 3]]]]\)",
              "MUnitStrings", "CPUTimeUsed-Detail"]]], 
            RGBColor[0.458824, 0.458824, 0.458824]], 
           Style[
-          "\!\(\*TagBox[TemplateBox[List[\"0.`\", \"\\\"s\\\"\", \"s\", \
-\"\\\"Seconds\\\"\"], \"Quantity\", Rule[SyntaxForm, Mod]], \
+          "\!\(\*TagBox[TemplateBox[List[\"0.016000000000000014`\", \"\\\"s\\\
+\"\", \"s\", \"\\\"Seconds\\\"\"], \"Quantity\", Rule[SyntaxForm, Mod]], \
 Function[Short[Slot[1], Rational[2, 3]]]]\)", 
            RGBColor[0.14902, 0.14902, 0.14902]]}}, 
         BaseStyle -> {FontFamily -> "Helvetica", FontWeight -> "Bold"}, 
@@ -3218,7 +3185,7 @@ Function[Short[Slot[1], Rational[2, 3]]]]\)",
     GridBoxItemSize->{"Columns" -> {{All}}, "Rows" -> {{All}}}],
    "Grid"],
   ImageSize->Full]], "TestSuccess",
- CellID->138044583,ExpressionUUID->"3dd7c43e-f2c4-4911-bdab-5f6378b9be0f"],
+ CellID->166739736,ExpressionUUID->"199b73d8-6062-4e92-a23e-8dc169b0c303"],
 
 Cell[BoxData[
  PaneBox[
@@ -3238,13 +3205,13 @@ Cell[BoxData[
                     
                     DynamicBox[FEPrivate`FrontEndResource[
                     "MUnitExpressions", "Add"],
-                    ImageSizeCache->{12., {4., 8.}}],
+                    ImageSizeCache->{8.64, {3., 5.640000000000001}}],
                     BaselinePosition->(Center -> Scaled[0.5])], 
                     StyleBox[
                     
                     DynamicBox[FEPrivate`FrontEndResource[
                     "MUnitStrings", "AddMessages-Label"],
-                    ImageSizeCache->{77.48826095685654, {3., 9.}}], 
+                    ImageSizeCache->{55.79154667968749, {2., 7.}}], 
                     "ButtonText",
                     StripOnInput->False,
                     FontColor->Dynamic[
@@ -3279,9 +3246,7 @@ Cell[BoxData[
                  FEPrivate`FrontEndResource[
                  "MUnitStrings", "AddMessages-Tooltip"]]], "Tooltip"]& ], 
              MUnit`Palette`Private`hover$$ = CurrentValue["MouseOver"],
-             
-             ImageSizeCache->{
-              116., {10.933593688416295`, 15.066406311583705`}}],
+             ImageSizeCache->{84.4, {11.5121875, 14.4878125}}],
             DynamicModuleValues:>{}], 
            TagBox[GridBox[{
               {
@@ -3296,13 +3261,13 @@ Cell[BoxData[
                     
                     DynamicBox[FEPrivate`FrontEndResource[
                     "MUnitExpressions", "Add"],
-                    ImageSizeCache->{12., {4., 8.}}],
+                    ImageSizeCache->{8.64, {3., 5.640000000000001}}],
                     BaselinePosition->(Center -> Scaled[0.5])], 
                     StyleBox[
                     
                     DynamicBox[FEPrivate`FrontEndResource[
                     "MUnitStrings", "AddOptions-Label"],
-                    ImageSizeCache->{67.73435449544631, {2., 9.}}], 
+                    ImageSizeCache->{48.7687341796875, {2., 7.}}], 
                     "ButtonText",
                     StripOnInput->False,
                     FontColor->Dynamic[
@@ -3337,9 +3302,7 @@ Cell[BoxData[
                     FEPrivate`FrontEndResource[
                     "MUnitStrings", "AddOptions-Tooltip"]]], "Tooltip"]& ], 
                  MUnit`Palette`Private`hover$$ = CurrentValue["MouseOver"],
-                 
-                 ImageSizeCache->{
-                  106., {10.933593688416295`, 15.066406311583705`}}],
+                 ImageSizeCache->{77.4, {11.5121875, 14.4878125}}],
                 DynamicModuleValues:>{}], 
                ActionMenuBox[
                 ButtonBox["\<\"\"\>",
@@ -3403,13 +3366,15 @@ Cell[BoxData[
                 
                 DynamicBox[FEPrivate`FrontEndResource[
                  "MUnitExpressions", "Rerun"],
-                 ImageSizeCache->{15., {6., 9.}}],
+                 
+                 ImageSizeCache->{
+                  10.799999999999999`, {4., 6.799999999999999}}],
                 BaselinePosition->(Center -> Scaled[0.5])], 
                StyleBox[
                 
                 DynamicBox[FEPrivate`FrontEndResource[
                  "MUnitStrings", "Rerun-Label"],
-                 ImageSizeCache->{32.33935616968665, {0., 9.}}], "ButtonText",
+                 ImageSizeCache->{23.2843359375, {0., 6.}}], "ButtonText",
                 StripOnInput->False,
                 FontColor->Dynamic[
                   If[MUnit`Palette`Private`hover$$, 
@@ -3440,14 +3405,14 @@ Cell[BoxData[
             FEPrivate`FrontEndResource["MUnitStrings", "Rerun-Tooltip"]]], 
           "Tooltip"]& ], MUnit`Palette`Private`hover$$ = 
         CurrentValue["MouseOver"],
-        ImageSizeCache->{73., {10.933593688416295`, 15.066406311583705`}}],
+        ImageSizeCache->{53.400000000000006`, {11.5121875, 14.4878125}}],
        DynamicModuleValues:>{}]}
     },
     AutoDelete->False,
     GridBoxItemSize->{"Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}}],
    "Grid"],
   ImageSize->Full]], "BottomCell",
- CellID->49291117,ExpressionUUID->"4909eaa0-a81c-4858-85c7-392f5b748d6f"]
+ CellID->871056237,ExpressionUUID->"9afb71cc-ff8b-43db-98f3-70e1cb9e095c"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -3460,13 +3425,13 @@ Cell[BoxData[
   "]"}]], "VerificationTest",
  CellChangeTimes->{{3.8553055380942607`*^9, 3.855305545886015*^9}},
  CellLabel->"In[105]:=",
- CellID->150436192,ExpressionUUID->"55073302-0cd7-4498-b20f-34b8d1bd3270"],
+ CellID->150436192,ExpressionUUID->"ab733857-f151-48ce-bd0c-aee2a5f7ed6f"],
 
 Cell[BoxData[
  RowBox[{"1", "/", 
   RowBox[{"5", "!"}]}]], "ExpectedOutput",
  CellChangeTimes->{{3.8553055490600185`*^9, 3.855305550241627*^9}},
- CellID->144169181,ExpressionUUID->"6e9b0be8-ead1-4b78-bb84-3be3f49e800c"],
+ CellID->144169181,ExpressionUUID->"17581452-7474-43e5-b6cb-283e7be4995a"],
 
 Cell[BoxData[
  PaneBox[
@@ -3705,7 +3670,7 @@ Function[Short[Slot[1], Rational[2, 3]]]]\)",
     GridBoxItemSize->{"Columns" -> {{All}}, "Rows" -> {{All}}}],
    "Grid"],
   ImageSize->Full]], "TestSuccess",
- CellID->183611677,ExpressionUUID->"5f3b000d-13fe-45e9-9be5-8a5ae6550577"],
+ CellID->609685405,ExpressionUUID->"a0623f5e-18ea-4878-aabc-a5878e7d4e68"],
 
 Cell[BoxData[
  PaneBox[
@@ -3934,7 +3899,7 @@ Cell[BoxData[
     GridBoxItemSize->{"Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}}],
    "Grid"],
   ImageSize->Full]], "BottomCell",
- CellID->447776322,ExpressionUUID->"f470b675-a6ed-42bc-89bb-74211c12f25b"]
+ CellID->135924352,ExpressionUUID->"209f7896-6a1f-43f1-be82-3395e80e96e0"]
 }, Open  ]]
 }, Open  ]],
 
@@ -3944,7 +3909,7 @@ Cell["\:041d\:0435\:0441\:0432\:044f\:0437\:043d\:044b\:0435 \:0447\:0435\
 \:0440\:0435\:0437 \:0442\:0440\:0430\:043d\:0441\:043f\:043e\:0437\:0438\
 \:0446\:0438\:044e:", "Section",
  CellChangeTimes->{{3.855800261017968*^9, 3.855800298953207*^9}},
- CellID->259268937,ExpressionUUID->"14614119-97d4-42fe-97ed-211f3807f086"],
+ CellID->259268937,ExpressionUUID->"a6660a3f-1849-495f-bb1c-b976c0f88499"],
 
 Cell[CellGroupData[{
 
@@ -3988,11 +3953,11 @@ Cell[BoxData[
    "]"}]}]], "VerificationTest",
  CellChangeTimes->{{3.8558003084741325`*^9, 3.855800353186326*^9}},
  CellLabel->"In[190]:=",
- CellID->259803082,ExpressionUUID->"b2606585-758b-49de-895a-01bc00a6616d"],
+ CellID->259803082,ExpressionUUID->"85506e81-0a3d-4dd8-a16c-fb421f4b7dd5"],
 
 Cell[BoxData["True"], "ExpectedOutput",
  CellChangeTimes->{{3.8558003576984982`*^9, 3.8558003624013357`*^9}},
- CellID->437371653,ExpressionUUID->"a36568ad-0192-493e-b951-da29137c318c"],
+ CellID->437371653,ExpressionUUID->"f2088a1c-469d-4d90-a968-3044cfcbf802"],
 
 Cell[BoxData[
  PaneBox[
@@ -4194,7 +4159,7 @@ Function[Short[Slot[1], Rational[2, 3]]]]\\)\"\>",
             FontColor->RGBColor[0.458824, 0.458824, 0.458824]], 
            
            StyleBox["\<\"\\!\\(\\*TagBox[TemplateBox[List[\\\"2.\
-157000000000039`\\\", \\\"\\\\\\\"s\\\\\\\"\\\", \\\"s\\\", \
+1100000000000008`\\\", \\\"\\\\\\\"s\\\\\\\"\\\", \\\"s\\\", \
 \\\"\\\\\\\"Seconds\\\\\\\"\\\"], \\\"Quantity\\\", Rule[SyntaxForm, Mod]], \
 Function[Short[Slot[1], Rational[2, 3]]]]\\)\"\>",
             StripOnInput->False,
@@ -4218,9 +4183,9 @@ Function[Short[Slot[1], Rational[2, 3]]]]\\)\"\>",
              "MUnitStrings", "CPUTimeUsed-Detail"]]], 
            RGBColor[0.458824, 0.458824, 0.458824]], 
           Style[
-          "\!\(\*TagBox[TemplateBox[List[\"2.157000000000039`\", \
-\"\\\"s\\\"\", \"s\", \"\\\"Seconds\\\"\"], \"Quantity\", Rule[SyntaxForm, \
-Mod]], Function[Short[Slot[1], Rational[2, 3]]]]\)", 
+          "\!\(\*TagBox[TemplateBox[List[\"2.1100000000000008`\", \"\\\"s\\\"\
+\", \"s\", \"\\\"Seconds\\\"\"], \"Quantity\", Rule[SyntaxForm, Mod]], \
+Function[Short[Slot[1], Rational[2, 3]]]]\)", 
            RGBColor[0.14902, 0.14902, 0.14902]]}}, 
         BaseStyle -> {FontFamily -> "Helvetica", FontWeight -> "Bold"}, 
         Spacings -> {{2 -> 0.5}, Automatic}]},
@@ -4231,7 +4196,7 @@ Mod]], Function[Short[Slot[1], Rational[2, 3]]]]\)",
     GridBoxItemSize->{"Columns" -> {{All}}, "Rows" -> {{All}}}],
    "Grid"],
   ImageSize->Full]], "TestSuccess",
- CellID->582295566,ExpressionUUID->"5aa73048-83e7-4af3-8dc9-13fee35dcf7e"],
+ CellID->133947083,ExpressionUUID->"98ad5584-0725-4000-b266-8590f5585da0"],
 
 Cell[BoxData[
  PaneBox[
@@ -4460,7 +4425,7 @@ Cell[BoxData[
     GridBoxItemSize->{"Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}}],
    "Grid"],
   ImageSize->Full]], "BottomCell",
- CellID->881819792,ExpressionUUID->"55191bd0-2f32-4ce1-96ec-8134c56cc414"]
+ CellID->300298471,ExpressionUUID->"c4f04218-efc3-4b19-8bf1-4d0114d3414c"]
 }, Open  ]]
 }, Open  ]]
 },
@@ -4906,9 +4871,9 @@ DockedCells->{
               DynamicBox[
                ToBoxes[
                 
-                MUnit`Palette`Private`resultColorBar$$[{504193140, 103421702, 
-                 314567126, 11092684, 650772878, 694615742, 138044583, 
-                 183611677, 582295566}, {1, 2, 3, 4, 5, 6, 7, 8, 
+                MUnit`Palette`Private`resultColorBar$$[{31286477, 372037956, 
+                 714180672, 524041476, 463832280, 238885864, 166739736, 
+                 609685405, 133947083}, {1, 2, 3, 4, 5, 6, 7, 8, 
                  9}, {}, {}, {}, 250, 12], StandardForm]], 
               ActionMenuBox[
                PaneSelectorBox[{False -> DynamicBox[
@@ -5225,114 +5190,108 @@ CellTagsIndex->{}
 *)
 (*NotebookFileOutline
 Notebook[{
-Cell[584, 21, 561, 11, 28, "Input",ExpressionUUID->"7e6b3cec-4f0e-4309-9745-0e661e1b8cbf",
+Cell[584, 21, 561, 11, 28, "Input",ExpressionUUID->"7158d198-a97b-426c-9a66-afa3cfd439cc",
  CellID->213996015],
 Cell[CellGroupData[{
-Cell[1170, 36, 289, 7, 28, "Input",ExpressionUUID->"6e35796b-e83a-462f-9fa6-e86076ce7459",
- CellID->41906],
-Cell[1462, 45, 289, 7, 32, "Output",ExpressionUUID->"99121c54-b680-4fe2-bbf4-55111f386202",
- CellID->10601684]
-}, Open  ]],
-Cell[CellGroupData[{
-Cell[1788, 57, 232, 3, 67, "Section",ExpressionUUID->"e88fb585-4d85-48ca-9b8f-38d3b40d3496",
+Cell[1170, 36, 232, 3, 67, "Section",ExpressionUUID->"31d1de93-1a8a-4e3a-8401-175e418c4ee5",
  CellID->322964014],
 Cell[CellGroupData[{
-Cell[2045, 64, 329, 7, 46, "VerificationTest",ExpressionUUID->"80f8471d-34c7-457c-a5c7-de0831459dee",
+Cell[1427, 43, 329, 7, 46, "VerificationTest",ExpressionUUID->"f1c5af56-cd01-4bc0-afe8-59fd7e101413",
  CellID->50936257],
-Cell[2377, 73, 152, 2, 38, "ExpectedOutput",ExpressionUUID->"83619eb4-a54e-404f-b0fb-2c44484c0af5",
+Cell[1759, 52, 152, 2, 38, "ExpectedOutput",ExpressionUUID->"18056b60-2faf-4ee4-b980-f00a1b3ab85f",
  CellID->78641636],
-Cell[2532, 77, 9939, 235, 25, "TestSuccess",ExpressionUUID->"789aeb3b-0ace-4176-b5b3-a46dcbad0bf8",
- CellID->504193140],
-Cell[12474, 314, 9252, 227, 43, "BottomCell",ExpressionUUID->"b0342641-c45d-40b2-914b-e21a58aede75",
- CellID->211682399]
+Cell[1914, 56, 9949, 235, 25, "TestSuccess",ExpressionUUID->"ec0253ed-09fc-495f-b980-f99c04b4cc41",
+ CellID->31286477],
+Cell[11866, 293, 9243, 225, 43, "BottomCell",ExpressionUUID->"449a9e7d-fc22-4cd2-b5ce-297d3bb16cf0",
+ CellID->248997009]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[21763, 546, 279, 6, 46, "VerificationTest",ExpressionUUID->"5ea6da9d-d562-4e0a-83b7-4b5a9a571ab9",
+Cell[21146, 523, 279, 6, 46, "VerificationTest",ExpressionUUID->"adaaad6c-2532-4363-a136-1ded5abed92a",
  CellID->303224318],
-Cell[22045, 554, 153, 2, 38, "ExpectedOutput",ExpressionUUID->"519e0283-adda-441f-aee4-c7db03fd56d1",
+Cell[21428, 531, 153, 2, 38, "ExpectedOutput",ExpressionUUID->"b0399128-ed70-43e5-8c48-7845f90b473b",
  CellID->658707361],
-Cell[22201, 558, 9939, 235, 25, "TestSuccess",ExpressionUUID->"dfe1e71d-0424-4fab-8fcc-b729f7e60cbf",
- CellID->103421702],
-Cell[32143, 795, 9252, 227, 43, "BottomCell",ExpressionUUID->"fd2f4e7c-50c4-4181-9ba7-9775427a0b9d",
- CellID->106152304]
+Cell[21584, 535, 9950, 235, 25, "TestSuccess",ExpressionUUID->"62dc5e2f-0f85-43c1-b9b6-bb54bb21a8ee",
+ CellID->372037956],
+Cell[31537, 772, 9242, 225, 43, "BottomCell",ExpressionUUID->"644554e0-b723-46bd-992e-5c7f05e78c1b",
+ CellID->99745807]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[41432, 1027, 330, 7, 46, "VerificationTest",ExpressionUUID->"520f758a-390a-46e3-accf-3b17362f43c0",
+Cell[40816, 1002, 330, 7, 46, "VerificationTest",ExpressionUUID->"bf310e7d-cd8a-4fa4-b243-14620855d07f",
  CellID->636017086],
-Cell[41765, 1036, 179, 2, 38, "ExpectedOutput",ExpressionUUID->"6b9a4cb6-4801-475f-b264-927347e169f0",
+Cell[41149, 1011, 179, 2, 38, "ExpectedOutput",ExpressionUUID->"f7996feb-b679-4599-a03c-7413441fa36e",
  CellID->790665],
-Cell[41947, 1040, 9943, 235, 25, "TestSuccess",ExpressionUUID->"05c049b7-4d7b-47bc-acf8-687593530282",
- CellID->314567126],
-Cell[51893, 1277, 9252, 227, 43, "BottomCell",ExpressionUUID->"9fc46c65-92de-4b00-afbf-57b181e2692c",
- CellID->119427942]
+Cell[41331, 1015, 9954, 235, 25, "TestSuccess",ExpressionUUID->"758aab14-d901-4b6f-8c4a-7bc3584c8902",
+ CellID->714180672],
+Cell[51288, 1252, 9242, 225, 43, "BottomCell",ExpressionUUID->"c1264e80-e50d-4527-b852-cf22af0f6ab1",
+ CellID->48490621]
 }, Open  ]]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[61194, 1510, 351, 5, 67, "Section",ExpressionUUID->"959b8f74-fc2b-4268-9cb5-740ae590eea5",
+Cell[60579, 1483, 351, 5, 67, "Section",ExpressionUUID->"0c15be0d-f356-4ece-955d-bd96467a29f2",
  CellID->260296769],
 Cell[CellGroupData[{
-Cell[61570, 1519, 255, 5, 46, "VerificationTest",ExpressionUUID->"3d577294-7bef-46a6-8a37-71068524d089",
+Cell[60955, 1492, 255, 5, 46, "VerificationTest",ExpressionUUID->"38a21ab4-4c33-4880-97ba-002797df76c5",
  CellID->527546667],
-Cell[61828, 1526, 155, 2, 38, "ExpectedOutput",ExpressionUUID->"df3c03cc-7dfa-4951-9f2e-c8c53facb9d0",
+Cell[61213, 1499, 155, 2, 38, "ExpectedOutput",ExpressionUUID->"a5497eb6-9766-4edd-a3aa-66b3a0a1f808",
  CellID->121214379],
-Cell[61986, 1530, 9938, 235, 25, "TestSuccess",ExpressionUUID->"c3d59d00-2f39-45e6-ad32-52b3b02dfffb",
- CellID->11092684],
-Cell[71927, 1767, 9252, 227, 43, "BottomCell",ExpressionUUID->"823d3b48-4697-4a17-ab8e-dc89bcff23f8",
- CellID->218612776]
+Cell[61371, 1503, 9950, 235, 25, "TestSuccess",ExpressionUUID->"14bb5e0e-faf5-43de-9941-2f278dafab83",
+ CellID->524041476],
+Cell[71324, 1740, 9242, 225, 43, "BottomCell",ExpressionUUID->"f568e6dd-a2ed-4f6e-9489-a1cf38bf257e",
+ CellID->38775846]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[81216, 1999, 278, 6, 46, "VerificationTest",ExpressionUUID->"82c01883-4942-4aac-9f8c-2d2d14cd6f8c",
+Cell[80603, 1970, 278, 6, 46, "VerificationTest",ExpressionUUID->"e3a49461-63dd-4f48-be65-015e1de8dd10",
  CellID->718987604],
-Cell[81497, 2007, 228, 4, 38, "ExpectedOutput",ExpressionUUID->"79f75810-eb12-4eea-af28-504a4b0ce942",
+Cell[80884, 1978, 228, 4, 38, "ExpectedOutput",ExpressionUUID->"deb83ac2-71b3-4339-9963-5a60881bd654",
  CellID->136268980],
-Cell[81728, 2013, 10031, 237, 25, "TestSuccess",ExpressionUUID->"28d44a19-f828-490b-9510-1193e7154ef5",
- CellID->650772878],
-Cell[91762, 2252, 9252, 227, 43, "BottomCell",ExpressionUUID->"cc90b7ba-3c6a-4391-9eba-b23d89d35f9e",
- CellID->596393490]
+Cell[81115, 1984, 10042, 237, 25, "TestSuccess",ExpressionUUID->"70c22c34-d624-4bf1-b50b-ae26d2151007",
+ CellID->463832280],
+Cell[91160, 2223, 9243, 225, 43, "BottomCell",ExpressionUUID->"1073cd1e-4668-4239-b882-6b5317332085",
+ CellID->460552147]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[101051, 2484, 281, 6, 46, "VerificationTest",ExpressionUUID->"02446c24-2574-462b-b32f-84e63d6cae22",
+Cell[100440, 2453, 281, 6, 46, "VerificationTest",ExpressionUUID->"66b90097-900a-4fee-9141-2aa084c8aec1",
  CellID->383998197],
-Cell[101335, 2492, 203, 3, 38, "ExpectedOutput",ExpressionUUID->"4e9a1d01-8cb3-4526-96f6-2826bd45fb42",
+Cell[100724, 2461, 203, 3, 38, "ExpectedOutput",ExpressionUUID->"fa8ca39a-e1d4-41b0-87e9-a304b6035752",
  CellID->163217842],
-Cell[101541, 2497, 10031, 237, 25, "TestSuccess",ExpressionUUID->"d8985468-4cab-4cea-9a16-59c8ca257d55",
- CellID->694615742],
-Cell[111575, 2736, 9252, 227, 43, "BottomCell",ExpressionUUID->"758463a8-1080-49d8-b88b-54cafe4a8373",
- CellID->677530983]
+Cell[100930, 2466, 10042, 237, 25, "TestSuccess",ExpressionUUID->"ceae560d-985a-4c70-b302-c44ee3b3aac1",
+ CellID->238885864],
+Cell[110975, 2705, 9242, 225, 43, "BottomCell",ExpressionUUID->"7f101741-dc04-481a-a167-fe5aa9f29477",
+ CellID->78514070]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[120864, 2968, 313, 7, 46, "VerificationTest",ExpressionUUID->"c54ec668-3158-4f09-ac4a-b342b6908bee",
+Cell[120254, 2935, 313, 7, 46, "VerificationTest",ExpressionUUID->"7e82923b-e518-435a-9c51-0bddc6283f3e",
  CellID->257787662],
-Cell[121180, 2977, 223, 4, 38, "ExpectedOutput",ExpressionUUID->"3dc066ed-87d3-4465-8c6f-4d2970c3f165",
+Cell[120570, 2944, 223, 4, 38, "ExpectedOutput",ExpressionUUID->"01a4050e-26a2-4ab1-922d-e64dadedc2ec",
  CellID->125685377],
-Cell[121406, 2983, 10035, 237, 25, "TestSuccess",ExpressionUUID->"3dd7c43e-f2c4-4911-bdab-5f6378b9be0f",
- CellID->138044583],
-Cell[131444, 3222, 9251, 227, 43, "BottomCell",ExpressionUUID->"4909eaa0-a81c-4858-85c7-392f5b748d6f",
- CellID->49291117]
+Cell[120796, 2950, 10082, 237, 25, "TestSuccess",ExpressionUUID->"199b73d8-6062-4e92-a23e-8dc169b0c303",
+ CellID->166739736],
+Cell[130881, 3189, 9243, 225, 43, "BottomCell",ExpressionUUID->"9afb71cc-ff8b-43db-98f3-70e1cb9e095c",
+ CellID->871056237]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[140732, 3454, 338, 8, 46, "VerificationTest",ExpressionUUID->"55073302-0cd7-4498-b20f-34b8d1bd3270",
+Cell[140161, 3419, 338, 8, 46, "VerificationTest",ExpressionUUID->"ab733857-f151-48ce-bd0c-aee2a5f7ed6f",
  CellID->150436192],
-Cell[141073, 3464, 219, 4, 38, "ExpectedOutput",ExpressionUUID->"6e9b0be8-ead1-4b78-bb84-3be3f49e800c",
+Cell[140502, 3429, 219, 4, 38, "ExpectedOutput",ExpressionUUID->"17581452-7474-43e5-b6cb-283e7be4995a",
  CellID->144169181],
-Cell[141295, 3470, 10039, 237, 25, "TestSuccess",ExpressionUUID->"5f3b000d-13fe-45e9-9be5-8a5ae6550577",
- CellID->183611677],
-Cell[151337, 3709, 9252, 227, 43, "BottomCell",ExpressionUUID->"f470b675-a6ed-42bc-89bb-74211c12f25b",
- CellID->447776322]
+Cell[140724, 3435, 10039, 237, 25, "TestSuccess",ExpressionUUID->"a0623f5e-18ea-4878-aabc-a5878e7d4e68",
+ CellID->609685405],
+Cell[150766, 3674, 9252, 227, 43, "BottomCell",ExpressionUUID->"209f7896-6a1f-43f1-be82-3395e80e96e0",
+ CellID->135924352]
 }, Open  ]]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[160638, 3942, 323, 4, 67, "Section",ExpressionUUID->"14614119-97d4-42fe-97ed-211f3807f086",
+Cell[160067, 3907, 323, 4, 67, "Section",ExpressionUUID->"a6660a3f-1849-495f-bb1c-b976c0f88499",
  CellID->259268937],
 Cell[CellGroupData[{
-Cell[160986, 3950, 1337, 40, 167, "VerificationTest",ExpressionUUID->"b2606585-758b-49de-895a-01bc00a6616d",
+Cell[160415, 3915, 1337, 40, 167, "VerificationTest",ExpressionUUID->"85506e81-0a3d-4dd8-a16c-fb421f4b7dd5",
  CellID->259803082],
-Cell[162326, 3992, 184, 2, 54, "ExpectedOutput",ExpressionUUID->"a36568ad-0192-493e-b951-da29137c318c",
+Cell[161755, 3957, 184, 2, 54, "ExpectedOutput",ExpressionUUID->"f2088a1c-469d-4d90-a968-3044cfcbf802",
  CellID->437371653],
-Cell[162513, 3996, 9985, 237, 25, "TestSuccess",ExpressionUUID->"5aa73048-83e7-4af3-8dc9-13fee35dcf7e",
- CellID->582295566],
-Cell[172501, 4235, 9252, 227, 43, "BottomCell",ExpressionUUID->"55191bd0-2f32-4ce1-96ec-8134c56cc414",
- CellID->881819792]
+Cell[161942, 3961, 9987, 237, 25, "TestSuccess",ExpressionUUID->"98ad5584-0725-4000-b266-8590f5585da0",
+ CellID->133947083],
+Cell[171932, 4200, 9252, 227, 43, "BottomCell",ExpressionUUID->"c4f04218-efc3-4b19-8bf1-4d0114d3414c",
+ CellID->300298471]
 }, Open  ]]
 }, Open  ]]
 }
